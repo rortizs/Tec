@@ -1,2 +1,0 @@
-# Tec
-Grupo No
