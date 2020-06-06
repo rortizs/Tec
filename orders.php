@@ -156,7 +156,7 @@ require_once 'includes/header.php';
 				    <label for="metoPago" class="col-sm-3 control-label">Método de Pago:</label>
 				    <div class="col-sm-9">
 				    	<select class="form-control" name="metoPago" id="metoPago">
-					      	<option selected disabled hidden value="">-- Selecciona --</option>
+					      	<option selected disabled hidden value="1">Efectivo</option>
 					      	<option value="1">Efectivo</option>
 					      	<option value="2">Tarjeta de Crédito</option>
 				    	</select>
